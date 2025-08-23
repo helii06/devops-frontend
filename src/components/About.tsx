@@ -11,7 +11,7 @@ const About: React.FC = () => {
             <div className="w-40 h-40 md:w-64 md:h-64 mx-auto rounded-full bg-gradient-to-br from-blue-100 to-blue-200 border-4 border-blue-300 flex items-center justify-center overflow-hidden shadow-lg hover:shadow-xl transition-all duration-500 transform hover:scale-105">
               {/* Option 1: Use an image */}
               <img 
-                src="/image.jpg" 
+                src="react-fe/public/image.png" 
                 alt="Haily" 
                 className="w-full h-full object-cover"
               />
